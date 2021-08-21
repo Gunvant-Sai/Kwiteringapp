@@ -1,0 +1,84 @@
+#login_button
+{
+    background-color: #7F00FF;
+    margin-left: 1500px;
+    width: 25%;
+    height: 40px;
+    font-size: medium;
+    border-radius: 5px;
+}
+
+#user_name
+{
+    margin-left: 1250px; 
+}
+
+body {
+    text-align: center;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  #sigup{
+    margin-left: 1225px;
+    width: 25%;
+    height: 50px;
+  }
+
+  .logo
+  {
+      text-align: center;
+      margin-top: 123px;
+      height: 30%;
+      width: 30%;
+  }
+
+  #h3tag
+  {
+    text-align: center;
+  }
+
+  #h5tag
+  {
+    text-align: center;
+  }
+
+  .header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#msg 
+{
+    width: 25%;
+    height: 35px;
+    margin-bottom: 22px;
+}
+
+.user_tick
+{
+	width:20px;
+}
